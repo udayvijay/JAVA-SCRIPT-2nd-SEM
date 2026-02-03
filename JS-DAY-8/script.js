@@ -4,7 +4,7 @@ console.log(heading);
 heading.style.color = "red";
 heading.style.backgroundColor = "yellow";
 console.log(heading.textContent);
-heading.textContent="hello india";
+heading.textContent="Hello India !";
 
 const subHeading = document.getElementsByClassName("sub-heading");
 console.log(subHeading);
